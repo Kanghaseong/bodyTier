@@ -9,12 +9,13 @@ export default {
   props: {
     msg: String,
   },
-};
+}
 </script>
 
 
 <style scoped>
 h1 {
-  font-size: 4rem;
+  font-size: 2.5rem;
+  margin: 1.5rem;
 }
 </style>
